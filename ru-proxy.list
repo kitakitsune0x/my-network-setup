@@ -1,5 +1,6 @@
 DOMAIN-SUFFIX,gate.io
 DOMAIN-SUFFIX,aeza.net
+DOMAIN,yandex
 DOMAIN-SUFFIX,yandex.com
 DOMAIN-SUFFIX,yandex.net
 DOMAIN-SUFFIX,yandex.ru
@@ -7,6 +8,7 @@ DOMAIN-SUFFIX,webdav.yandex.ru
 DOMAIN-SUFFIX,music-desktop-application.s3.yandex.net
 DOMAIN-SUFFIX,mc.yandex.ru
 DOMAIN-SUFFIX,api.music.yandex.net
+
 # Finance
 DOMAIN-SUFFIX,go.unicredit.ru
 DOMAIN-SUFFIX,imb.ru
