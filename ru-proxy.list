@@ -8,6 +8,7 @@ DOMAIN-SUFFIX,webdav.yandex.ru
 DOMAIN-SUFFIX,music-desktop-application.s3.yandex.net
 DOMAIN-SUFFIX,mc.yandex.ru
 DOMAIN-SUFFIX,api.music.yandex.net
+DOMAIN-SUFFIX,ya.ru
 
 # Finance
 DOMAIN-SUFFIX,go.unicredit.ru
