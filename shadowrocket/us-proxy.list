@@ -69,6 +69,7 @@ DOMAIN-SUFFIX,yt.be
 DOMAIN-SUFFIX,midjourney.com
 DOMAIN-SUFFIX,midjourneyapi.xyz
 DOMAIN-SUFFIX,useapi.net
+DOMAIN,chatgpt
 DOMAIN,api.statsig.com
 DOMAIN,browser-intake-datadoghq.com
 DOMAIN,chat.openai.com.cdn.cloudflare.net
