@@ -1,12 +1,38 @@
-DOMAIN-KEYWORD,github
-DOMAIN-SUFFIX,gitkraken.dev
+# Github
+DOMAIN-SUFFIX,atom.io
+DOMAIN-SUFFIX,dependabot.com
+DOMAIN-SUFFIX,ghcr.io
+DOMAIN-SUFFIX,git.io
+DOMAIN-SUFFIX,github-atom-io-herokuapp-com.freetls.fastly.net
+DOMAIN-SUFFIX,github-avatars.oss-cn-hongkong.aliyuncs.com
+DOMAIN-SUFFIX,github-cloud.s3.amazonaws.com
+DOMAIN-SUFFIX,github.blog
 DOMAIN-SUFFIX,github.com
-DOMAIN-SUFFIX,notion.so
-DOMAIN-SUFFIX,cloudflare.com
-DOMAIN-SUFFIX,1password.com
-DOMAIN-SUFFIX,tidal.com
-DOMAIN-SUFFIX,trackjs.com
-DOMAIN-SUFFIX,music.youtube.com
+DOMAIN-SUFFIX,github.community
+DOMAIN-SUFFIX,github.dev
+DOMAIN-SUFFIX,github.io
+DOMAIN-SUFFIX,githubapp.com
+DOMAIN-SUFFIX,githubassets.com
+DOMAIN-SUFFIX,githubhackathon.com
+DOMAIN-SUFFIX,githubpreview.dev
+DOMAIN-SUFFIX,githubstatus.com
+DOMAIN-SUFFIX,githubuniverse.com
+DOMAIN-SUFFIX,githubusercontent.com
+DOMAIN-SUFFIX,myoctocat.com
+DOMAIN-SUFFIX,npm.community
+DOMAIN-SUFFIX,npmjs.com
+DOMAIN-SUFFIX,npmjs.org
+DOMAIN-SUFFIX,opensource.guide
+DOMAIN-SUFFIX,rawgit.com
+DOMAIN-SUFFIX,rawgithub.com
+DOMAIN-SUFFIX,repo.new
+DOMAIN-SUFFIX,thegithubshop.com
+DOMAIN-KEYWORD,github
+
+# Gitkraken
+DOMAIN-SUFFIX,gitkraken.dev
+
+# Google
 DOMAIN-SUFFIX,googleapis.com
 DOMAIN-SUFFIX,www.googleapis.com
 DOMAIN-SUFFIX,googlevideo.com
@@ -70,6 +96,27 @@ DOMAIN-SUFFIX,yt.be
 DOMAIN-SUFFIX,midjourney.com
 DOMAIN-SUFFIX,midjourneyapi.xyz
 DOMAIN-SUFFIX,useapi.net
+
+# TikTok
+DOMAIN,p16-tiktokcdn-com.akamaized.net
+DOMAIN-SUFFIX,byteoversea.com
+DOMAIN-SUFFIX,ibytedtos.com
+DOMAIN-SUFFIX,ibyteimg.com
+DOMAIN-SUFFIX,ipstatp.com
+DOMAIN-SUFFIX,isnssdk.com
+DOMAIN-SUFFIX,muscdn.com
+DOMAIN-SUFFIX,musical.ly
+DOMAIN-SUFFIX,sgpstatp.com
+DOMAIN-SUFFIX,snssdk.com
+DOMAIN-SUFFIX,tik-tokapi.com
+DOMAIN-SUFFIX,tiktok.com
+DOMAIN-SUFFIX,tiktokcdn.com
+DOMAIN-SUFFIX,tiktokv.com
+DOMAIN-KEYWORD,musical.ly
+DOMAIN-KEYWORD,tiktok
+USER-AGENT,TikTok*
+
+# OpenAI
 DOMAIN,chatgpt
 DOMAIN,api.statsig.com
 DOMAIN,browser-intake-datadoghq.com
@@ -114,3 +161,11 @@ DOMAIN-SUFFIX,ytimg.com
 DOMAIN-SUFFIX,yt3.ggpht.com
 DOMAIN-SUFFIX,youtube.googleapis.com
 DOMAIN-KEYWORD,youtube
+
+# Other
+DOMAIN-SUFFIX,notion.so
+DOMAIN-SUFFIX,cloudflare.com
+DOMAIN-SUFFIX,1password.com
+DOMAIN-SUFFIX,tidal.com
+DOMAIN-SUFFIX,trackjs.com
+DOMAIN-SUFFIX,music.youtube.com
