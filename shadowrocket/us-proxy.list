@@ -122,16 +122,16 @@ DOMAIN-KEYWORD,tiktok
 USER-AGENT,TikTok*
 
 # OpenAI
-DOMAIN,chatgpt
-DOMAIN,api.statsig.com
-DOMAIN,browser-intake-datadoghq.com
-DOMAIN,chat.openai.com.cdn.cloudflare.net
-DOMAIN,o33249.ingest.sentry.io
-DOMAIN,openai-api.arkoselabs.com
-DOMAIN,openaicom-api-bdcpf8c6d2e9atf6.z01.azurefd.net
-DOMAIN,openaicomproductionae4b.blob.core.windows.net
-DOMAIN,production-openaicom-storage.azureedge.net
-DOMAIN,static.cloudflareinsights.com
+DOMAIN-KEYWORD,chatgpt
+DOMAIN-KEYWORD,api.statsig.com
+DOMAIN-KEYWORD,browser-intake-datadoghq.com
+DOMAIN-KEYWORD,chat.openai.com.cdn.cloudflare.net
+DOMAIN-KEYWORD,o33249.ingest.sentry.io
+DOMAIN-KEYWORD,openai-api.arkoselabs.com
+DOMAIN-KEYWORD,openaicom-api-bdcpf8c6d2e9atf6.z01.azurefd.net
+DOMAIN-KEYWORD,openaicomproductionae4b.blob.core.windows.net
+DOMAIN-KEYWORD,production-openaicom-storage.azureedge.net
+DOMAIN-KEYWORD,static.cloudflareinsights.com
 DOMAIN-KEYWORD,openaicom-api
 DOMAIN-SUFFIX,algolia.net
 DOMAIN-SUFFIX,auth0.com
