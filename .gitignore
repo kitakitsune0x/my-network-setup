@@ -1,2 +1,5 @@
-11b67a3aa895a0c1df18a71eabde08bd/
-b8193e826787b6e92679b4172f7f3903/
+# Ignore all folders
+*/
+
+# Except shadowrocket
+!shadowrocket/
