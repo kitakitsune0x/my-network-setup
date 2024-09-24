@@ -29,6 +29,9 @@ DOMAIN-SUFFIX,repo.new
 DOMAIN-SUFFIX,thegithubshop.com
 DOMAIN-KEYWORD,github
 
+# Reweb
+DOMAIN-SUFFIX, reweb.so
+
 # Gitkraken
 DOMAIN-SUFFIX,gitkraken.dev
 
