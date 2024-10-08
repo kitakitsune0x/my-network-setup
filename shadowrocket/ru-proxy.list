@@ -10,6 +10,7 @@ DOMAIN-SUFFIX,mc.yandex.ru
 DOMAIN-SUFFIX,api.music.yandex.net
 DOMAIN-SUFFIX,ya.ru
 DOMAIN-SUFFIX,goldapple.ru
+DOMAIN-KEYWORD,kucoin
 
 # Finance
 DOMAIN-SUFFIX,okx.com
